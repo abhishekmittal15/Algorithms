@@ -1,5 +1,5 @@
 # Algorithms (and Data Structures)
-This is the Way.
+This is the way.
 
 Here comes the links lol:
 1. [CLRS](https://researchweb.iiit.ac.in/~alapan.chaudhuri/clrs.pdf)
